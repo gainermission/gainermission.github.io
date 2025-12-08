@@ -1,0 +1,21 @@
+date: "Dec 7 2025"
+weight: 223
+username: "TheChubstance"
+meals:
+  - location: "RAW Sugar Factory"
+    items:
+      - "2 carafes of guava mimosas"
+      - "Eggs benedict with tomato, spinach, and bacon"
+      - "Breakfast potatoes"
+  - location: "The Brazilian Spot"
+    items:
+      - "Mocha"
+      - "Enroladinho de queijo"
+  - location: "Brenda's French Soul Food"
+    items:
+      - "Mac and cheese"
+      - "French onion soup"
+      - "5 Hush puppies"
+  - location: "Home"
+    items:
+      - "Gainer shake"

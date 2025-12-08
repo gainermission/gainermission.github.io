@@ -1,0 +1,14 @@
+date: "Dec 8 2025"
+weight: 223
+username: "TheChubstance"
+meals:
+  - location: "Jim's"
+    items:
+      - "Belgian waffle"
+      - "Eggs over easy"
+      - "Bacon"
+      - "Mocha"
+  - location: "Craftsman and Wolves"
+    items:
+      - "Mocha"
+      - "Banana travel cake"
